@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/okUindP/superhero-background-loop_41bdacqfg__F0000.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+p,h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: darkred;
+}
+
+#input {
+    margin: 10px;
+}
+
+#submit {
+    height: 40px;
+    width: 80px;
+}
+
+.btn{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    align-content: center;
+}
+
+.imgBox{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    float: left; 
+    margin: 10px;
+}
+
+#newBtn{
+    align-content: center;
+}
